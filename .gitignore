@@ -1,0 +1,15 @@
+
+# Env file for local development
+.env
+env.sh
+*.toml
+
+# Python files
+*.pyc
+*.egg
+
+# Directories
+*egg-info
+*build
+*dist
+*__pycache__
